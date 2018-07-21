@@ -2,7 +2,7 @@
 
 Implementation of some commonly used ML algorithms from scratch
 
-### Topic Covered
+### Topics Covered
 
 1. Regression
     - Linear Regression
