@@ -17,3 +17,5 @@ Implementation of some commonly used ML algorithms from scratch
     - A two layer neural network for Iris species classification
 
 3. Gaussian Naive Bayes
+
+4. K-Means Clustering
